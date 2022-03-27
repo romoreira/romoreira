@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=romoreira)](https://github.com/romoreira/github-readme-stats)
+![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=romoreira&show_icons=true&theme=dracula)
 
 <!--
 **romoreira/romoreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
