@@ -1,22 +1,51 @@
-## Hi there 👋
+## Hi there 👋 I'm Rodrigo Moreira
+
+<p><em>A Ph.D. Professor at <a href="https://www.ufv.br">Federal University of Viçosa</a>, Researcher, and Developer.😊</br>
+</em></p>
+
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://github.com/user/repository/subscription](https://www.linkedin.com/in/moreirar/))
+
+
+
+## About Tech Skills
+
+
+```javascript
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [Javascript, HTML, CSS, Python, Java, CSharp, Kotlin, Swift],
+   technologies: {
+      network: {
+         knowhow: ["Cisco", "Huawei", "NEC", "Fiberhome"],
+      },
+      security: {
+         certs: ["NS1", "NS2", "NS3", "NS4"],
+      },
+      cloud: {
+         platforms: ["AWS", "Azure", "GCP", "Oracle"],
+      },
+      data: {
+         ML: ["Supervised", "Unsupervised", "Reinforcement Learning"],
+         frameworks: ["Pytorch", "Keras", "Tensor"]
+      },
+      frontEnd: {
+         js: ["React", "Angular"],
+         css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
+      },
+      backEnd: {
+         java: ["Spring"],
+         js: ["Node", "Express"],
+         csharp: ["Asp.net Core"],
+         misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
+      },
+      databases: ["MongoDB", "mySQL", "SQLServer"],
+      mobile: ["Android", "IOS"]
+   },
+};
+```
+</br></br>
+<h2>💻 Some stats 💻</h2>
 
 ### Let's do code...
 
 ![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=romoreira&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romoreira&layout=dracula)](https://github.com/romoriera/github-readme-stats)
-
-<!--
-**romoreira/romoreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
