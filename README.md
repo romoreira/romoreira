@@ -52,3 +52,6 @@ const aboutMe = {
 ### Let's do code...
 
 ![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=romoreira&show_icons=true&theme=dracula)
+
+
+![Rodrigo's Github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={romoreira}&theme={github})
