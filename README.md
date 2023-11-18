@@ -54,4 +54,4 @@ const aboutMe = {
 ![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=romoreira&show_icons=true&theme=dracula)
 
 
-![Rodrigo's Github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={romoreira}&theme={github})
+![Rodrigo's Github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=romoreira&theme=github)
