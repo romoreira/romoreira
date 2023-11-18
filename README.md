@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Rodrigo Moreira
+ ## Hi there 👋 I'm Rodrigo Moreira
 
 <p><em>A Ph.D. Professor at <a href="https://www.ufv.br">Federal University of Viçosa</a>, Researcher, Data Scientist, and Developer.😊</br>
 </em></p>
@@ -7,6 +7,7 @@
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/moreira_r) 
 [![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/z0B-2YALdq4?si=TWBenE5NoYMg7tIU)
 [![](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-9328-8618)
+[![](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=HqTKBo0AAAAJ&hl=en)
 
 
 ## About Tech Skills
