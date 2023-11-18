@@ -3,7 +3,7 @@
 <p><em>A Ph.D. Professor at <a href="https://www.ufv.br">Federal University of Viçosa</a>, Researcher, and Developer.😊</br>
 </em></p>
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://github.com/user/repository/subscription](https://www.linkedin.com/in/moreirar/))
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moreirar/)
 
 
 
