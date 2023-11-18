@@ -55,3 +55,5 @@ const aboutMe = {
 
 
 ![Rodrigo's Github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=romoreira&theme=github)
+
+! [Rodrigo's Github stats](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fromoreira1212%2Fhit-counter)
