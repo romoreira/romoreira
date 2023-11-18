@@ -28,8 +28,8 @@ const aboutMe = {
          platforms: ["AWS", "Azure", "GCP", "Oracle"],
       },
       data: {
-         ML: ["Supervised", "Unsupervised", "Reinforcement Learning"],
-         frameworks: ["Pytorch", "Keras", "Tensor"]
+         ML: ["Supervised", "Unsupervised", "Reinforcement Learning", "Federated Learning"],
+         frameworks: ["Pytorch", "Keras", "TensorFlow"]
       },
       frontEnd: {
          js: ["React", "Angular"],
