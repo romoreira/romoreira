@@ -1,59 +1,99 @@
- ## Hi there 👋 I'm Rodrigo Moreira
+# Hi there 👋 I'm Rodrigo Moreira
 
-<p><em>A Ph.D. Professor at <a href="https://www.ufv.br">Federal University of Viçosa</a>, Researcher, Data Scientist, and Developer.</br>😊
-</em></p>
+<p>
+Currently Professor at the <a href="https://www.ufv.br">Federal University of Viçosa</a>, Brazil.
+I work at the intersection of Artificial Intelligence, Edge Computing, Distributed Systems, Federated Learning, Computer Vision, and Beyond 5G and 6G Networks.
+My research focuses on building intelligent, efficient, and sustainable systems for real world applications.
+</p>
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moreirar/)
-[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/moreira_r) 
-[![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/z0B-2YALdq4?si=TWBenE5NoYMg7tIU)
-[![](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-9328-8618)
-[![](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=HqTKBo0AAAAJ&hl=en)
-[![](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://romoreira.github.io)
+<p>
+  <a href="https://www.linkedin.com/in/moreirar/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://orcid.org/0000-0002-9328-8618">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=HqTKBo0AAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  </a>
+  <a href="https://romoreira.github.io">
+    <img src="https://img.shields.io/badge/Website-121013?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-## About Tech Skills
+## About Me
 
+I am a Brazilian researcher, and developer with a strong interest in AI driven systems for networking, distributed infrastructures, and applied machine learning.
+My work combines research, software development, and experimentation across academia and real world scenarios.
 
-```javascript
-const aboutMe = {
-   pronouns: "he" | "him",
-   code: [Javascript, HTML, CSS, Python, Java, CSharp, Kotlin, Swift],
-   technologies: {
-      network: {
-         knowhow: ["Cisco", "Huawei", "NEC", "Fiberhome"],
-      },
-      security: {
-         certs: ["NS1", "NS2", "NS3", "NS4"],
-      },
-      cloud: {
-         platforms: ["AWS", "Azure", "GCP", "Oracle"],
-      },
-      data: {
-         ML: ["Supervised", "Unsupervised", "Reinforcement Learning", "Federated Learning"],
-         frameworks: ["Pytorch", "Keras", "TensorFlow"]
-      },
-      frontEnd: {
-         js: ["React", "Angular"],
-         css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
-      },
-      backEnd: {
-         java: ["Spring"],
-         js: ["Node", "Express"],
-         csharp: ["Asp.net Core"],
-         misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
-      },
-      databases: ["MongoDB", "mySQL", "SQLServer"],
-      mobile: ["Android", "IOS"]
-   },
-};
-```
-</br></br>
-<h2>💻 Some stats 💻</h2>
+## Research Interests
 
-### Let's do code...
+- Artificial Intelligence and Machine Learning
+- Edge Computing and AI at the Edge
+- Federated Learning and Distributed AI
+- Distributed Systems and Service Architectures
+- Beyond 5G and 6G Networks
+- Sustainable and Energy Aware Computing
+- Computer Vision and Applied Data Science
 
-![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=romoreira&show_icons=true&theme=dracula)
+## Current Focus
 
+I am currently interested in designing intelligent systems that combine AI, networking, and distributed infrastructures to make future computing platforms more adaptive, efficient, and sustainable.
 
-![Rodrigo's Github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=romoreira&theme=github)
+## Tech and Research Stack
 
-![Rodrigo's Github stats](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fromoreira1212%2Fhit-counter)
+```python
+research_profile = {
+    "languages": [
+        "Python",
+        "JavaScript",
+        "Java",
+        "C#",
+        "Kotlin",
+        "Swift",
+        "HTML",
+        "CSS"
+    ],
+    "research_areas": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Federated Learning",
+        "Computer Vision",
+        "Edge Computing",
+        "Distributed Systems",
+        "B5G/6G Networks",
+        "Sustainable Computing"
+    ],
+    "frameworks_and_tools": [
+        "PyTorch",
+        "TensorFlow",
+        "Keras",
+        "React",
+        "Angular",
+        "Node.js",
+        "Express",
+        "Spring",
+        "ASP.NET Core",
+        "Selenium",
+        "Cypress",
+        "Puppeteer",
+        "Bash"
+    ],
+    "cloud": [
+        "AWS",
+        "Azure",
+        "GCP",
+        "Oracle Cloud"
+    ],
+    "databases": [
+        "MongoDB",
+        "MySQL",
+        "SQL Server"
+    ],
+    "networking_background": [
+        "Cisco",
+        "Huawei",
+        "NEC",
+        "FiberHome"
+    ]
+}
