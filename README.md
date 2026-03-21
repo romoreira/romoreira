@@ -97,7 +97,7 @@ research_profile = {
         "FiberHome"
     ]
 }
-
+```
 </br></br>
 <h2>💻 Some stats 💻</h2>
 
