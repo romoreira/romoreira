@@ -97,3 +97,15 @@ research_profile = {
         "FiberHome"
     ]
 }
+
+</br></br>
+<h2>💻 Some stats 💻</h2>
+
+### Let's do code...
+
+![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=romoreira&show_icons=true&theme=dracula)
+
+
+![Rodrigo's Github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=romoreira&theme=github)
+
+![Rodrigo's Github stats](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fromoreira1212%2Fhit-counter)
