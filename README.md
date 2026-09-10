@@ -9,10 +9,6 @@
 -->
 
 <p align="center">
-  <img src="profile.svg" alt="romoreira@ufv" />
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/moreirar/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -26,6 +22,12 @@
     <img src="https://img.shields.io/badge/Website-121013?style=for-the-badge&logo=github&logoColor=white" alt="Website" />
   </a>
 </p>
+
+<p align="center">
+  <img src="profile.svg" alt="romoreira@ufv" />
+</p>
+
+
 
 <!-- ================= Stats dinamicos (numeros reais, sempre atualizados) ================= -->
 <p align="center">
